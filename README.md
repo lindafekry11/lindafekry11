@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Linda Fekry</h1>
 <h3 align="center">A passionate web developer from Egypt</h3>
 
-- 🌱 I’m currently learning **React , Node.js**
+- 🌱 I’m currently learning **Vue.JS , React.JS**
 
 - 📫 How to reach me **lindafekry@gmail.com**
 
